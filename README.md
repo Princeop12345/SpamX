@@ -1,26 +1,24 @@
 <p align="center">
-  <img src="resources/RiZoeLX.png" alt="RiZoeLXSpam Logo">
+  <img src="resources/RiZoeLX.png" alt="princeop Logo">
 </p>
 <h6 align="center">
-  <b>• SᴘᴀᴍX Bʏ RɪZᴏᴇLX •</b>
+  <b>• prince op•</b>
 </h6>
 
 ----
 
-<b> SpamX Is A Pyrogram Based Spam Bots For Telegram With Many Features </b>
+<b> prince Is A Pyrogram Based prince opFor Telegram With Many Features </b>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=prince143X&repo=SpamX&theme=lite)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=prince143X&repo=Sprince1234=lite)
 
 ![Repo Size](https://img.shields.io/github/repo-size/RiZoeLX/SpamX?&style=social&logo=github)
 ![Branch](https://img.shields.io/badge/Branch-main-white?&style=social&logo=github)
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
 ![GitHub language count](https://img.shields.io/github/languages/count/RiZoeLX/SpamX?&style=social&logo=hyper)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/RiZoeLXSupport)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/RiZoeL_X)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/fakelove0p1)
 
- - Requirements
-   - [![PyPI - pyrogram](https://img.shields.io/badge/pypi-pyrogram-informational)](https://pypi.org/project/pyrogram)
+
 
 <b> Give a star ⭐</b>
 
@@ -53,4 +51,4 @@ SpamX is licensed under [GNU Affero General Public License](https://www.gnu.org/
 <h3>Credits</h3>
 
   - <b> [RiZoeL](https://github.com/MrRizoel) : Dev/creator of SpamX </b> 
-  - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in SpamX
+  - <b> [Pyrogram](https://github.com/pyrogram/pyrogram) : Python Library used in prince1234
